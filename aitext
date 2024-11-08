@@ -1,0 +1,14 @@
+{
+  "humanText": [
+    "How are you?",
+    "What is your name?",
+    "Tell me something interesting.",
+    "Can you help me with this?"
+  ],
+  "aiText": [
+    "Hello! How can I assist you today?",
+    "I am an AI, here to help you with all your queries.",
+    "Have you ever heard of the Turing test?",
+    "I'm here to provide information on a variety of topics."
+  ]
+}
