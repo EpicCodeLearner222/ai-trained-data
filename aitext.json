@@ -1,4 +1,4 @@
-const jsonString = JSON.stringify({
+
   "humanText": [
     "Hi there",
     "Hey how are you?",
@@ -8,4 +8,4 @@ const jsonString = JSON.stringify({
     "Hello! How can I assist you?",
     "If you have more questions about the Burj Khalifa or anything else, feel free to ask!"
   ]
-});
+
