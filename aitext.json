@@ -6,7 +6,6 @@ const jsonString = JSON.stringify({
   ],
   "aiText": [
     "Hello! How can I assist you?",
-    //...
     "If you have more questions about the Burj Khalifa or anything else, feel free to ask!"
   ]
 });
