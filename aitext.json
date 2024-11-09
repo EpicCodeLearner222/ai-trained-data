@@ -34,7 +34,14 @@
   "y",
   "z",
   "hey there",
-  "how do u do?"
+  "how do u do?",
+  "No wait, it already fetches the new data.",
+  "We didn't need that",
+  "Got more ai data! 94 lines (94 loc) · 10.6 KB",
+  "Was just giving an update",
+  "Can you give me the FULL code with the change from start to finish?",
+  "Thank you! Can you give me the ***FULL*** code now, from top to bottom (start to end) of each line of code, pre-existing and with the new changes please? (unless there's duplicated functions)",
+  "Wait, why was the total code length shortened?"
 ],
 "aiText": [
   "Hello! How can I assist you?",
