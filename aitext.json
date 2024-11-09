@@ -1,9 +1,8 @@
-
 {
-  "humanText": [
-"Hi there",
-  ],
-  "aiText": [
-   "Hello! How can I assist you?",
-  ]
+"humanText": [
+"Hi there"
+],
+"aiText": [
+"Hello! How can I assist you?"
+]
 }
