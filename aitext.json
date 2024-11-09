@@ -84,6 +84,15 @@
   "Thank you! Can you give me the ***FULL*** code now, from top to bottom (start to end) of each line of code, pre-existing and with the new changes please? (unless there's duplicated functions)",
   "Wait, why was the total code length shortened?"
 ],
+"humanphrases": [
+  "bro",
+  "bruh",
+  "rn",
+  "lmao",
+  "lmfao",
+  "lol",
+  "xd"
+],
 "aiText": [
   "Hello! How can I assist you?",
   "That's fantastic! Reading new books can be an exciting adventure. If you have a specific book in mind or a genre you’re interested in, I can provide a summary, discuss its themes, or even suggest similar reads.",
