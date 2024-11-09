@@ -1,6 +1,8 @@
 {
 "humanText": [
-"Hi there"
+"Hi there",
+  "Hey how are you?",
+  "Hey, how are you?"
 ],
 "aiText": [
 "Hello! How can I assist you?"
