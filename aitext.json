@@ -101,7 +101,14 @@
   "ohio",
   "fannum",
   "tax",
-  "government"
+  "government",
+  "bet",
+  "school",
+  "class",
+  "classes",
+  "skill",
+  "issue",
+  "issues",
 ],
 "aiText": [
   "Here’s your original sentence for reference:",
