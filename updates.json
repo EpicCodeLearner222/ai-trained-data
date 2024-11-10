@@ -1,9 +1,15 @@
 {
   "update1": [
+    "Update 1",
     "Added an updates tab!",
     "Fixed issues with the ai detector going down."
   ],
   "update2": [
+    "Update 2",
     "Fixed some major bugs with the Updates thing not being fetched."
+  ],
+  "update3": [
+    "Update 3",
+    "Added more AI Training Data"
   ]
 }
