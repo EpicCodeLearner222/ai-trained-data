@@ -10,9 +10,9 @@
   ],
   "update3": [
     "Update 3",
-    "Added more AI Training Data"
+    "Added more AI Training Data",
+    "Update 4",
+    "Fixed some major bugs with the Updates System, and Refreshing Model Button.",
+    "They should both work smoothly now."
   ],
-  "update4": [
-    "testing"
-  ]
 }
