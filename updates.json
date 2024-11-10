@@ -2,5 +2,8 @@
   "update1": [
     "Added an updates tab!",
     "Fixed issues with the ai detector going down."
+  ],
+  "update2": [
+    "Fixed some major bugs with the Updates thing not being fetched."
   ]
 }
