@@ -9,6 +9,9 @@
     "Added more AI Training Data",
     "Update 4",
     "Fixed some major bugs with the Updates System, and Refreshing Model Button.",
-    "They should both work smoothly now."
+    "They should both work smoothly now.",
+    "Update 5",
+    "Fixed a few bugs",
+    "Added more Common Human Phrases, and adjusted how it determines if something was 'AI' Generated"
   ]
 }
