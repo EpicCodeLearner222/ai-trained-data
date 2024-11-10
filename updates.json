@@ -1,18 +1,14 @@
 {
-  "update1": [
+  "updates": [
     "Update 1",
     "Added an updates tab!",
-    "Fixed issues with the ai detector going down."
-  ],
-  "update2": [
+    "Fixed issues with the ai detector going down.",
     "Update 2",
-    "Fixed some major bugs with the Updates thing not being fetched."
-  ],
-  "update3": [
+    "Fixed some major bugs with the Updates thing not being fetched.",
     "Update 3",
     "Added more AI Training Data",
     "Update 4",
     "Fixed some major bugs with the Updates System, and Refreshing Model Button.",
-    "They should both work smoothly now."
+    "They should both work smoothly now.",
   ],
 }
