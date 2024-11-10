@@ -1,8 +1,6 @@
 {
   "update1": [
-    "Added an updates tab!"
-  ],
-  "update2": [
-    "-Fixed Bugs"
+    "Added an updates tab!",
+    "Fixed issues with the ai detector going down."
   ]
 }
