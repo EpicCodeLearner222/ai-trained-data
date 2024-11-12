@@ -12,6 +12,8 @@
     "They should both work smoothly now.",
     "Update 5",
     "Fixed a few bugs",
-    "Added more Common Human Phrases, and adjusted how it determines if something was 'AI' Generated"
+    "Added more Common Human Phrases, and adjusted how it determines if something was 'AI' Generated",
+    "Update 6",
+    "Added more Human Text into the training data. It should be more accurate when defining what was written by humans."
   ]
 }
