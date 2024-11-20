@@ -20,6 +20,10 @@
     "Added more Human Data into the training data for the AI system.",
     "Update 8",
     "Added more AI Trained Data.",
-    "Made more refined AI responses inside of the training data."
+    "Made more refined AI responses inside of the training data.",
+    "Update 9",
+    "Fixed guesses.",
+    "Provided both more Human and AI trained data.",
+    "AI Detector is EXTREMELY accurate with AI written text, but not so accurate with human text. We're working on a fix for it, so please bare with us."
   ]
 }
