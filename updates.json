@@ -14,6 +14,9 @@
     "Fixed a few bugs",
     "Added more Common Human Phrases, and adjusted how it determines if something was 'AI' Generated",
     "Update 6",
-    "Added more Human Text into the training data. It should be more accurate when defining what was written by humans."
+    "Added more Human Text into the training data. It should be more accurate when defining what was written by humans.",
+    "Update 7",
+    "Fixed: Fixed issue where human text like \"hello how are you\" which was written by humans being 92% AI generated.",
+    "Added more Human Data into the training data for the AI system."
   ]
 }
