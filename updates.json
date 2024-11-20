@@ -17,6 +17,9 @@
     "Added more Human Text into the training data. It should be more accurate when defining what was written by humans.",
     "Update 7",
     "Fixed: Fixed issue where human text like \"hello how are you\" which was written by humans being 92% AI generated.",
-    "Added more Human Data into the training data for the AI system."
+    "Added more Human Data into the training data for the AI system.",
+    "Update 8",
+    "Added more AI Trained Data.",
+    "Made more refined AI responses inside of the training data."
   ]
 }
