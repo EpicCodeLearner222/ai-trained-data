@@ -28,6 +28,11 @@
     "Update 10",
     "Fixed guesses when it determines if something was likely AI generated.",
     "Please note it's not 100% accurate **YET** and probably won't ever be 100% accurate as nothing's perfect.",
-    "Added more human text into training data."
+    "Added more human text into training data.",
+    "Update 11",
+    "More Human Text added into training data.",
+    "More AI Text added into training data.",
+    "Modified messages when clicking Analyze",
+    "You will see different color percentages"
   ]
 }
