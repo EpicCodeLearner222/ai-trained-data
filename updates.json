@@ -1,5 +1,8 @@
 {
     "updates": [
+        "Update 13",
+        "Added: Added more AI Training Data",
+        "Fixed: Fixed bugs",
         "Update 12",
         "Fixed: Fixed brief issues when determining what was human, or AI",
         "Added a loading screen **WHILE** it's processing / analyzing your text.",
